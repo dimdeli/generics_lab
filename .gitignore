@@ -2,12 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/generics_lab/.vs/generics_lab
-/generics_lab/ConsoleApp1/bin
-/generics_lab/ConsoleApp1/obj
-/generics_lab/ConsoleApp2/bin
-/generics_lab/ConsoleApp2/obj
-/generics_lab/ConsoleApp3/bin
-/generics_lab/ConsoleApp3/obj
-/generics_lab/ConsoleApp4/bin
-/generics_lab/ConsoleApp4/obj
+/generics_lab/ConsoleApp1/bin/Debug/netcoreapp2.1
+/generics_lab/ConsoleApp1/obj/Debug/netcoreapp2.1
+/generics_lab/ConsoleApp2/bin/Debug/netcoreapp2.1
+/generics_lab/ConsoleApp2/obj/Debug/netcoreapp2.1
+/generics_lab/ConsoleApp3/bin/Debug/netcoreapp2.1
+/generics_lab/ConsoleApp3/obj/Debug/netcoreapp2.1
+/generics_lab/ConsoleApp4/bin/Debug/netcoreapp2.1
+/generics_lab/ConsoleApp4/obj/Debug/netcoreapp2.1
