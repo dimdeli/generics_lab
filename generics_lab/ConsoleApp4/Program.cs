@@ -38,7 +38,7 @@ namespace ConsoleApp4
             Console.WriteLine(movies.Count);
 
             // get by index
-            movies[1].PrintInfo()
+            movies[1].PrintInfo();
 
             // contains => true
             Console.WriteLine(movies.Contains(inceptionMovie));

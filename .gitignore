@@ -2,7 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/vs
+/.vs
 /generics_lab/.vs
 /generics_lab/ConsoleApp1/bin
 /generics_lab/ConsoleApp1/obj
