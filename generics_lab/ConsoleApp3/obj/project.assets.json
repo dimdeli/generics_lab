@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddeligiorgis\\Source\\Repos\\generics_lab\\ConsoleApp1\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectUniqueName": "C:\\Users\\ddeligiorgis\\Source\\Repos\\generics_lab\\generics_lab\\ConsoleApp3\\ConsoleApp3.csproj",
       "projectName": "ConsoleApp3",
-      "projectPath": "C:\\Users\\ddeligiorgis\\Source\\Repos\\generics_lab\\ConsoleApp1\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectPath": "C:\\Users\\ddeligiorgis\\Source\\Repos\\generics_lab\\generics_lab\\ConsoleApp3\\ConsoleApp3.csproj",
       "packagesPath": "C:\\Users\\ddeligiorgis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddeligiorgis\\Source\\Repos\\generics_lab\\ConsoleApp1\\ConsoleApp3\\obj\\",
+      "outputPath": "C:\\Users\\ddeligiorgis\\Source\\Repos\\generics_lab\\generics_lab\\ConsoleApp3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
