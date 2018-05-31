@@ -34,6 +34,12 @@ namespace ConsoleApp4
 
             PrintAll(movies);
 
+            // count
+            Console.WriteLine(movies.Count);
+
+            // get by index
+            movies[1].PrintInfo()
+
             // contains => true
             Console.WriteLine(movies.Contains(inceptionMovie));
 
@@ -69,6 +75,12 @@ namespace ConsoleApp4
             foreach (var g in groups) {
                 Console.WriteLine($"Year: {g.Year}, Oscars: {g.Sum}");
             }
+
+            // remove
+            movies.Remove(inceptionMovie);
+
+            PrintAll(sorted);
+            Console.WriteLine(movies.Count);
 
             Console.ReadLine();
         }
