@@ -79,7 +79,7 @@ namespace ConsoleApp4
             // remove
             movies.Remove(inceptionMovie);
 
-            PrintAll(sorted);
+            PrintAll(movies);
             Console.WriteLine(movies.Count);
 
             Console.ReadLine();
