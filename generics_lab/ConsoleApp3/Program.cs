@@ -6,26 +6,22 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var l1 = new Logger();
+
+            l1.Value = "foo";
+            l1.Save();
+
+            Console.ReadLine();
         }
 
-        public interface IVecicle
+        public class Logger
         {
-            int Rodes { get; }
+            public string Value { get; set; }
 
-            string GetInfo();
-        }
-
-        public class Car : IVecicle
-        {
-            public int Rodes => 4;
-
-            public string GetInfo()
+            public void Save()
             {
-                return $"Rodes: {Rodes}";
+                Console.WriteLine($"{Value}");
             }
         }
-
-
     }
 }
