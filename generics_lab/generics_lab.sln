@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{6196162D-956F-4916-9A46-54013C9CBA92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{1A5F5F4D-715E-4FBD-8287-AC235E93933E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp4", "ConsoleApp4\ConsoleApp4.csproj", "{1A5F5F4D-715E-4FBD-8287-AC235E93933E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoviesHub", "MoviesHub\MoviesHub.csproj", "{EFA59616-EAF9-4D4F-A67D-5CAFE211F374}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1A5F5F4D-715E-4FBD-8287-AC235E93933E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A5F5F4D-715E-4FBD-8287-AC235E93933E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A5F5F4D-715E-4FBD-8287-AC235E93933E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA59616-EAF9-4D4F-A67D-5CAFE211F374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA59616-EAF9-4D4F-A67D-5CAFE211F374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA59616-EAF9-4D4F-A67D-5CAFE211F374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA59616-EAF9-4D4F-A67D-5CAFE211F374}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

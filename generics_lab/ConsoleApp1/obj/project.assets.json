@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddeligiorgis\\Source\\Repos\\generics_lab\\generics_lab\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\github\\dimdeli\\generics_lab\\generics_lab\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\ddeligiorgis\\Source\\Repos\\generics_lab\\generics_lab\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\github\\dimdeli\\generics_lab\\generics_lab\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\ddeligiorgis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddeligiorgis\\Source\\Repos\\generics_lab\\generics_lab\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\github\\dimdeli\\generics_lab\\generics_lab\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -704,6 +704,7 @@
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\@DD\\nuget": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },

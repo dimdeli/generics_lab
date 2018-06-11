@@ -9,3 +9,14 @@ C:\Users\ddeligiorgis\Source\Repos\generics_lab\generics_lab\ConsoleApp4\obj\Deb
 C:\Users\ddeligiorgis\Source\Repos\generics_lab\generics_lab\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.AssemblyInfo.cs
 C:\Users\ddeligiorgis\Source\Repos\generics_lab\generics_lab\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.dll
 C:\Users\ddeligiorgis\Source\Repos\generics_lab\generics_lab\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.pdb
+C:\github\dimdeli\generics_lab\generics_lab\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.deps.json
+C:\github\dimdeli\generics_lab\generics_lab\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.runtimeconfig.json
+C:\github\dimdeli\generics_lab\generics_lab\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.runtimeconfig.dev.json
+C:\github\dimdeli\generics_lab\generics_lab\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.dll
+C:\github\dimdeli\generics_lab\generics_lab\ConsoleApp4\bin\Debug\netcoreapp2.1\ConsoleApp4.pdb
+C:\github\dimdeli\generics_lab\generics_lab\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.csprojAssemblyReference.cache
+C:\github\dimdeli\generics_lab\generics_lab\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\github\dimdeli\generics_lab\generics_lab\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.AssemblyInfoInputs.cache
+C:\github\dimdeli\generics_lab\generics_lab\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.AssemblyInfo.cs
+C:\github\dimdeli\generics_lab\generics_lab\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.dll
+C:\github\dimdeli\generics_lab\generics_lab\ConsoleApp4\obj\Debug\netcoreapp2.1\ConsoleApp4.pdb
